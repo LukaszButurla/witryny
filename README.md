@@ -6,3 +6,6 @@ Doena - nazwa (github.com/LukaszButurla)
 Hosting - serwer z plikami stron WWW
 Link - zmieniony adres ip strony 
 HTML 4 vs XHTML vs HTML 5
+Deprecated - przestarzale 
+JavaScript - jezyk programowania stron
+CSS - Cascading Style Sheets
