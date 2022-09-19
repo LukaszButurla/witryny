@@ -11,4 +11,7 @@ JavaScript - jezyk programowania stron<br>
 CSS - Cascading Style Sheets<br>
 <br>
 <h1>znacznik "<.h1>...<./h1>"</h1>
-<.br> - znak nowej lini
+<.br> - znak nowej lini<br>
+<.html>...<./html> - poczatek i koniec dokumentu html<br>
+<.head>...<./head> - poczatek i koniec naglowka html<br>
+<.body>...<./body> - poczatek i koniec zawartosci dokumentu html<br>
