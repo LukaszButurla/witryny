@@ -10,4 +10,5 @@ Deprecated - przestarzale <br>
 JavaScript - jezyk programowania stron<br>
 CSS - Cascading Style Sheets<br>
 <br>
+<h1>znacznik "<.h1>...<./h1>"</h1>
 <.br> - znak nowej lini
