@@ -25,4 +25,4 @@ CSS - Cascading Style Sheets<br>
 <.h3>...<./h3> - naglowek 3 stopnia<br>
 <.h4>...<./h4> - naglowek 4 stopnia<br>
 <.h5>...<./h5> - naglowek 5 stopnia<br>
-<.h16>...<./h16> - naglowek 6 stopnia<br>
+<.h6>...<./h6> - naglowek 6 stopnia<br>
