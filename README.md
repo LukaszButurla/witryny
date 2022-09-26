@@ -26,3 +26,4 @@ CSS - Cascading Style Sheets<br>
 <.h4>...<./h4> - naglowek 4 stopnia<br>
 <.h5>...<./h5> - naglowek 5 stopnia<br>
 <.h6>...<./h6> - naglowek 6 stopnia<br>
+<.body bgcolor="red"> - kolor tla strony (nie uzywac w html5)
