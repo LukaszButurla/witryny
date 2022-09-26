@@ -20,3 +20,9 @@ CSS - Cascading Style Sheets<br>
 <.p>...<./p> - poczatek i koniec paragrafu<br>
 <.b>...<./b> - pogrubienie<br>
 <.i>...<./i> - pochylenie <br>
+<.h1>...<./h1> - naglowek 1 stopnia<br>
+<.h2>...<./h2> - naglowek 2 stopnia<br>
+<.h3>...<./h3> - naglowek 3 stopnia<br>
+<.h4>...<./h4> - naglowek 4 stopnia<br>
+<.h5>...<./h5> - naglowek 5 stopnia<br>
+<.h16>...<./h16> - naglowek 6 stopnia<br>
