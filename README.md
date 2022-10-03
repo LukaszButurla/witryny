@@ -27,5 +27,10 @@ CSS - Cascading Style Sheets<br>
 <.h5>...<./h5> - naglowek 5 stopnia<br>
 <.h6>...<./h6> - naglowek 6 stopnia<br>
 <.body bgcolor="red"> - kolor tla strony (nie uzywac w html5)<br>
-
-<.hr> linia horyzontalna <hr>
+<.hr> linia horyzontalna <hr><br>
+<.strong> pogrubiony tekst, tak samo jak <.b><br>
+<.em> pochylony tak samo jak <.i><br>
+<.small...<./small> zmniejszanie tekstu<br>
+<.mark>...<./mark> - wyroznienie tekstu<br>
+<.sup>...<./sup> - indeks gorny<br>
+<.sub>...<./sub> - indeks dolny<br>
