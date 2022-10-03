@@ -34,3 +34,5 @@ CSS - Cascading Style Sheets<br>
 <.mark>...<./mark> - wyroznienie tekstu<br>
 <.sup>...<./sup> - indeks gorny<br>
 <.sub>...<./sub> - indeks dolny<br>
+<.s>...<./s> - przekreslenie tekstu<br>
+<.del>...<./del> - przekreslenie - zostalo usuniete ze strony<br>
