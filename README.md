@@ -36,3 +36,4 @@ CSS - Cascading Style Sheets<br>
 <.sub>...<./sub> - indeks dolny<br>
 <.s>...<./s> - przekreslenie tekstu<br>
 <.del>...<./del> - przekreslenie - zostalo usuniete ze strony<br>
+<.ins>...<./ins> - fragment dodany do poprzedniego tekstu
