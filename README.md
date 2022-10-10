@@ -59,4 +59,5 @@ CSS - Cascading Style Sheets<br>
 <hr>
   <h3>Linki HTML</h3>
 <.a>...<./a> - poczatek i koniec linku np. <.a>www.youtube.pl<./a><br>
-<.a href onet.pl>LINK<./a> - poczatek i koniec linku do innej lokalizcaji, np. <a href onet.pl>LINK</a>
+<.a href= onet.pl>LINK<./a> - poczatek i koniec linku do innej lokalizcaji, np. <a href onet.pl>LINK</a>
+<.a target= onet.pl>LINK 2<./a> - poczatek i koniec linku z okresleniem w jakim miejscu ma byc otwarty link, np. <a href=onet.pl target="_blank">LINK</a>
