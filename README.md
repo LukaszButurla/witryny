@@ -55,3 +55,8 @@ CSS - Cascading Style Sheets<br>
   <dt>HTML</dl>
   <dd>definicja HTML</dd>
 </dl>
+
+<hr>
+  <h3>Linki HTML</h3>
+<.a>...<./a> - poczatek i koniec linku np. <.a>www.youtube.pl<./a><br>
+<.a href onet.pl>LINK<./a> - poczatek i koniec linku do innej lokalizcaji, np. <a href onet.pl>LINK</a>
