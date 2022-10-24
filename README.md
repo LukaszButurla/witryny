@@ -69,3 +69,5 @@ CSS - Cascading Style Sheets<br>
   <img src="https://st2.depositphotos.com/1823785/7251/i/450/depositphotos_72516833-stock-photo-people-hold-straight-danish-tak.jpg">
   <figcaption>tsss</figcaption>
   </figure>
+
+  <h1><strong>Co to jest jpg i jakie ma cechy - ZADANIE DOMOWE</strong></h1>
