@@ -61,3 +61,11 @@ CSS - Cascading Style Sheets<br>
 <.a>...<./a> - poczatek i koniec linku np. <.a>www.youtube.pl<./a><br>
 <.a href= onet.pl>LINK<./a> - poczatek i koniec linku do innej lokalizcaji, np. <a href onet.pl>LINK</a>
 <.a target= onet.pl>LINK 2<./a> - poczatek i koniec linku z okresleniem w jakim miejscu ma byc otwarty link, np. <a href=onet.pl target="_blank">LINK</a>
+<.h3>grafika na stronie<./h3><br>
+<.img src="" width="" height="" alt="" title=""> - dodanie obrazu wraz z wymiarami, tekst alternatywny (kiedy obraz nie bedzie dostepny), tytulem<br>
+<img src ="https://st2.depositphotos.com/1823785/7251/i/450/depositphotos_72516833-stock-photo-people-hold-straight-danish-tak.jpg"  width="100" height="150" alt="Nie dziala" title="Tajtyl"><br>
+<.figcaption>....<./figcaption> - podpis obrazu
+<figure>
+  <img src="https://st2.depositphotos.com/1823785/7251/i/450/depositphotos_72516833-stock-photo-people-hold-straight-danish-tak.jpg">
+  <figcaption>tsss</figcaption>
+  </figure>
