@@ -72,6 +72,14 @@ CSS - Cascading Style Sheets<br>
 
   <h1><strong>Co to jest jpg i jakie ma cechy</strong></h1>
   
-<.table>...<./table> - poczatek tabeli
-<table>tak</table>
+<.table>...<./table> - poczatek i koniec tabeli
+<.tr>...<./tr> - pocztek i koniec wiersza tabeli
+<.td>...<./td> - poczatek i koniec komorki tabeli
+  
+ <table>
+   <tr>
+     <td>komorka 1</td>
+     <td>komorka 2</td>
+   </tr>
+  </table>
 
