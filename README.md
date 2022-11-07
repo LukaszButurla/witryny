@@ -89,5 +89,8 @@ CSS - Cascading Style Sheets<br>
 <.th>...<./th> - poczatek i koniec naglowka wiersza<br>
 atrybut "scope" - czy jest to naglowek dot. kolumna(col) czy wiersz(row)
 atrybut "colspan" - polaczenie komorki wedlug kolumny
+<.thead>...<./thead> - poczatek i koniec sekcji naglowka tabeli<br>
+<.tbody>...<./tbody> - poczatek i koniec sekcji glowne tabeli<br>
+<.tfoot>...<./tfoot> - poczatek i koniec sekcji stopki tabeli
 
 
