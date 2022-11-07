@@ -82,11 +82,12 @@ CSS - Cascading Style Sheets<br>
      <td>komorka 2</td>
    </tr>
    <tr>
-     <td>komorka 3</td>
-     <td>komorka 4</td>
+     <td colspan = "2">komorka 3</td>
    </tr>
   </table><br>
   
-<.th>...<./th> - poczatek i koniec naglowka wiersza
+<.th>...<./th> - poczatek i koniec naglowka wiersza<br>
+atrybut "scope" - czy jest to naglowek dot. kolumna(col) czy wiersz(row)
+atrybut "colspan" - polaczenie komorki wedlug kolumny
 
 
