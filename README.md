@@ -70,4 +70,8 @@ CSS - Cascading Style Sheets<br>
   <figcaption>tsss</figcaption>
   </figure>
 
-  <h1><strong>Co to jest jpg i jakie ma cechy - ZADANIE DOMOWE</strong></h1>
+  <h1><strong>Co to jest jpg i jakie ma cechy</strong></h1>
+  
+<.table>...<./table> - poczatek tabeli
+<table>tak</table>
+
