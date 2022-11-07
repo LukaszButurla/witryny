@@ -78,8 +78,15 @@ CSS - Cascading Style Sheets<br>
   
  <table>
    <tr>
-     <td>komorka 1</td>
+     <th>naglowek 1</th>
      <td>komorka 2</td>
    </tr>
-  </table>
+   <tr>
+     <td>komorka 3</td>
+     <td>komorka 4</td>
+   </tr>
+  </table><br>
+  
+<.th>...<./th> - poczatek i koniec naglowka wiersza
+
 
