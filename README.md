@@ -101,5 +101,10 @@ linia 1 i 3 to elementy blokowe np.znaczniki: h1, olm ul, dl, p
 linia 2 o 4 to elementy liniowe np.znaczniki: a, b, strong, i ,img
 
 <h2>identyfikatory</h2>
-id="..." - atrybut znaznika pozwalajacy odroznic elementy html i odnosic sie do konkretnych elementow,  moga byc wykorzystane jako wewnetrzny odnosnik do miejsca na stronie (w a href="#id")
-
+id="..." - atrybut znaznika pozwalajacy odroznic elementy html i odnosic sie do konkretnych elementow,  moga byc wykorzystane jako wewnetrzny odnosnik do miejsca na stronie (w a href="#id")<br>
+  
+class="nazwa klasy" - selektror klasy, podobne do id. Mozna nimi rozrozniac poszczegolne elementy html. Stosuje sie glownie gdy chcemy nadac taki sam wyglad dla grupy elementow html, rzadziej odnosimy sie za ich pomoca do konkretnego miejsca na stronie. Atrybut "clasa" moze powtarzac sie w dokumencie html<br>
+  
+  <h3>identyfikatory w css</h3>
+  #nazwa - odniesienie sie do selektrora id w pliku css<br>
+  .nazwa - odniesienie sie do selektora class w pliku css<br>
