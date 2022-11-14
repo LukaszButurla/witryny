@@ -93,4 +93,13 @@ atrybut "colspan" - polaczenie komorki wedlug kolumny
 <.tbody>...<./tbody> - poczatek i koniec sekcji glowne tabeli<br>
 <.tfoot>...<./tfoot> - poczatek i koniec sekcji stopki tabeli
 
+<h2>elementy blokowe i liniowe</h2>
+
+http://how2html.pl/wp-content/uploads/2014/09/element-liniowy-i-blokowy.png
+
+linia 1 i 3 to elementy blokowe np.znaczniki: h1, olm ul, dl, p
+linia 2 o 4 to elementy liniowe np.znaczniki: a, b, strong, i ,img
+
+<h2>identyfikatory</h2>
+id="..." - atrybut znaznika pozwalajacy odroznic elementy html i odnosic sie do konkretnych elementow,  moga byc wykorzystane jako wewnetrzny odnosnik do miejsca na stronie (w a href="#id")
 
