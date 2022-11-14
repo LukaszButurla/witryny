@@ -108,3 +108,15 @@ class="nazwa klasy" - selektror klasy, podobne do id. Mozna nimi rozrozniac posz
   <h3>identyfikatory w css</h3>
   #nazwa - odniesienie sie do selektrora id w pliku css<br>
   .nazwa - odniesienie sie do selektora class w pliku css<br>
+  
+  <h2>sekcje</h2>
+  <.div>...<./div> - element blokowy strony, nazywany rowniez boxem albo kontenerem wenatrz tego elementu dodajemy wszystkie znaczniki potrzebne w tej sekcji. mozna stosowac z identyfikatorem id lub class<br>
+ <.header>...<./header> - poczatek i koniec sekcji naglowka strony (logo i menu glowne)<br>
+ <.footer>...<./footer> - poczatek i koniec sekcji stopki strony (prawa autorskie, kontakt)<br>
+ <.main>...<./main> - poczatek i koniec sekcji  glownej strony (tresc strony)<br>
+ <.nav>...<./nav> - poczatek i koniec sekcji nawigacyjnej strony (linki do innych podstron<br>
+ <.aside>...<./aside> - poczatek i koniec sekcji bocznej strony (nie zwiazane z trescia, np. boczne menu<br>
+ <.article>...<./article> - poczatek i koniec sekcji artykulu (np. tekst z bloga)<br>
+ <.se
+  
+  
