@@ -117,6 +117,6 @@ class="nazwa klasy" - selektror klasy, podobne do id. Mozna nimi rozrozniac posz
  <.nav>...<./nav> - poczatek i koniec sekcji nawigacyjnej strony (linki do innych podstron<br>
  <.aside>...<./aside> - poczatek i koniec sekcji bocznej strony (nie zwiazane z trescia, np. boczne menu<br>
  <.article>...<./article> - poczatek i koniec sekcji artykulu (np. tekst z bloga)<br>
- <.se
+ 
   
   
