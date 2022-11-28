@@ -118,5 +118,15 @@ class="nazwa klasy" - selektror klasy, podobne do id. Mozna nimi rozrozniac posz
  <.aside>...<./aside> - poczatek i koniec sekcji bocznej strony (nie zwiazane z trescia, np. boczne menu<br>
  <.article>...<./article> - poczatek i koniec sekcji artykulu (np. tekst z bloga)<br>
  
+ <h1>Formularze</h1>
+ Element samozamykajacy nie ma znacznika koncowego
+ <.input> - element do wpisania danych przez uzytkownika<br>
+ <h4>Rodzaje inputu</h4><br>
+ <ol>
+  <li> <.input type="text"> - pole tekstowe</li>
+  <li> <.input type="number"> - liczby</li>
+  <li> <.input type="password"> - haslo</li>
+  <li> <.input type=""> - pole tekstowe</li>
+  
   
   
