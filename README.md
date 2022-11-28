@@ -130,5 +130,8 @@ class="nazwa klasy" - selektror klasy, podobne do id. Mozna nimi rozrozniac posz
   <li> <.input type="date"> - data</li>
   <li> <.input type="color"> - kolor</li>
   <li> <.input type="FileUpload"> - pole do zaladowania pliku</li>
-  
+ </ol>
+ 
+ <.input value=""> - element pozwalajacy na wpisanie okreslona wartosc domyslna 
+ <.input disabled> - element pozwalajacy do wproadzenia danych jest wylaczony
   
