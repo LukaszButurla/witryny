@@ -126,7 +126,9 @@ class="nazwa klasy" - selektror klasy, podobne do id. Mozna nimi rozrozniac posz
   <li> <.input type="text"> - pole tekstowe</li>
   <li> <.input type="number"> - liczby</li>
   <li> <.input type="password"> - haslo</li>
-  <li> <.input type=""> - pole tekstowe</li>
-  
+  <li> <.input type="button"> - przycisk</li>
+  <li> <.input type="date"> - data</li>
+  <li> <.input type="color"> - kolor</li>
+  <li> <.input type="FileUpload"> - pole do zaladowania pliku</li>
   
   
