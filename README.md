@@ -134,4 +134,26 @@ class="nazwa klasy" - selektror klasy, podobne do id. Mozna nimi rozrozniac posz
  
  <.input value=""> - element pozwalajacy na wpisanie okreslona wartosc domyslna 
  <.input disabled> - element pozwalajacy do wproadzenia danych jest wylaczony
-  
+  <code input="checkbox"</code> pole potwierdzenia stosujemy w przypadkunp. zgody marketingowej
+<br>
+<input type="checkbox" value="wybor1">wybor 1<br>
+<input type="checkbox" value="wybor2">wybor 2<br>
+<input type="checkbox" value="wybor3">wybor 3<br>
+pole checkbox pozwala użytkownikowi na zaznczenie dowolje ilosci pl checkbox<br>
+<code> textearea cols="50" i /textearea </code> pozwala wprowadzać dłuższy tekst w kilku linijkach, za pomocą parametru cols możemy określić ilość linii <textarea cols="50"> </textarea> <br>
+<code> select i /select </code> rozwijana lista w której definiujemy kolejne elementy<br>
+<code> option i /option </code> deklaracja elementów listy rozwijanej atrybut selected określa, który elemnet ma być zaznaczony<br>
+Przykład
+<select>
+<option>Tomek</option>
+<option>Łukaszk</option>
+<option>Danila</option>
+<option>Sebastian</option>
+<option>Bartek</option>
+<option>Kamil</option>
+</select>
+<code> form i /form </code> deklaracja początku i końca formularza<br>
+<code> input type="submit" </code> przycisk, który powoduje przesyłanie/wykonanie formularza, parametr value określa tekst któr ma się pojawić na przycisku <input type="submit"></li>
+Metody przesyłania formularza:
+<code> from method="GET" i /from </code> przesyłanie formularza za pomocą jawnego tekstu<br>
+<code> from method="POST" i /from </code> przesyłanie formularza za pomocą jawnego tekstu<bbr>
