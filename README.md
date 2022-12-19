@@ -157,3 +157,4 @@ Przykład
 Metody przesyłania formularza:
 <code> from method="GET" i /from </code> przesyłanie formularza za pomocą jawnego tekstu<br>
 <code> from method="POST" i /from </code> przesyłanie formularza za pomocą jawnego tekstu<bbr>
+<.form action="plik.php" > i <./form >  parametr action powoduje przesłanie danych z formularza do pliku podanego jako wartość parametru "action"
