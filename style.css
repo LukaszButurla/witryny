@@ -1,0 +1,22 @@
+* {
+    margin: 5px;
+}
+
+img {
+    width: 100%;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+td {
+    width: 50%;
+    padding: 5px;
+}
+
+.red {
+    background-color: bisque;
+    font-weight: 700;
+}
